@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+:root {
+    --primary-color: #E6DACE;
+    --secondary-color: #F4ECE6; /* Example pink color */
+  }
